@@ -69,13 +69,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-aside {
+article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -118,7 +118,7 @@ aside {
 
 .benefit-lead img {
     display: block;
-    margin: 10px ;
+    margin: 10px auto;
     max-width: 150px;
 }
 
@@ -197,10 +197,4 @@ footer {
 
 footer h2 {
     font-size: 20px;
-}
-main {
-    margin-right: 0px;
-    padding-right: 0px;
-    width: 75%;
-    border-right: 0px;
 }
